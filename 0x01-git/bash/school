@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash
 echo "The School is open"
+=======
+School is cool 1
+>>>>>>> master
